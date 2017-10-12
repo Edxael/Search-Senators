@@ -2,7 +2,7 @@
 
 Basic React.js App that search a "data.json" file and render information according with the parameters provided by the user.
 
-Live App link: [Searching Senators](http://senators.mycode.website/)
+Live App link: [www.senators.mycode.website](http://senators.mycode.website/)
 
 This project will render:
 
