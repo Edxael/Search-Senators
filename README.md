@@ -10,7 +10,7 @@ This project will render:
 
 For more information check the Blog-Post: [Searching U.S. Senators](http://blog.mycode.website/searching-u-s-senators/)
 
-Created with: Create-React-App
+Created with: Create-React-App...
 
 ----
 
